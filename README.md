@@ -1,4 +1,4 @@
-# EPHEMERA, or; Emails & Exchanges from the Archives (2012-2024)
+# Ephemera, or; Emails & Exchanges from the Archives
 
 <div align="center">
   <img src="" width="350" alt="Book Cover">
@@ -31,8 +31,63 @@
 
 <br>
 
+<div align="center">
+  <h2>⚡ Quick Start</h2>
+  <h3>Download Latest Release</h3>
+  <p>Download the Latest Pre-Built PDF Release</p>
+  
+  [![Download][Download-Badge]][Download-Link]
 
+  [Download-Badge]: https://img.shields.io/badge/Download_Latest_Release-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=1e40af
+  [Download-Link]: #
+  
+  <sup>📖 See README for More Information</sup>
+</div>
 
+<div align="center">
+  <h2>📌 README</h2>
+</div>
+
+<h3>📎 About:</h3>
+
+**Ephemera, or; Emails & Exchanges from the Archives**  
+*e·phem·er·a /əˈfem(ə)rə/: things that exist or are used or enjoyed for only a short time.*
+
+This repository contains quotes, question and answers, and email exchanges; all originally shared to the Ray Peat Forum from 2012-2024. This project is an attempt to gether, from this source, as well as elsewhere, the volume of exchanges with Ray Peat, which have been either unsearchable, unorganized, or just no well known about. The current code contains just over 1,400 entries.
+
+<h3>🚧 Roadmap:</h3>
+
+- Impliment a box auto-sorter based on size, to better fit boxes on a page.
+- Include quotes form other sources, outside of the forum.
+
+<div align="center">
+  <h2>🛠️ Build Instructions</h2>
+</div>
+
+<h3>📋 Prerequisites:</h3>
+
+- A TeX distribution (i.e., MiKTeX, or TeX Live for the `tlmgr` command).
+- EB Garamond & Open Sans fonts installed.
+
+<h3>🔧 Required LaTeX Packages:</h3>
+
+Ensure `tlmgr` and all installed packages are up-to-date:
+
+```bash
+tlmgr update --self --all
+```
+
+Install the required packages:
+
+```bash
+tlmgr install fontspec, xcolor, graphicx, tikz, babel, csquotes, microtype, selnolig, fontawesome5, mhchem, siunitx, tcolorbox, enumitem, imakeidx, totcount, hyperref, cleveref
+```
+
+<h3>🏗️ Compilation:</h3>
+
+```bash
+lualatex Ephemera && lualatex Ephemera
+```
 
 
 
