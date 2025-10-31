@@ -1,4 +1,4 @@
-# EPHEMERA: Emails & Exchanges from the Archives 
+# EPHEMERA, or; Emails & Exchanges from the Archives (2012-2024)
 
 <div align="center">
   <img src="" width="350" alt="Book Cover">
