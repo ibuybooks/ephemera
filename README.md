@@ -53,7 +53,7 @@
 **Ephemera, or; Emails & Exchanges from the Archives**  
 *e·phem·er·a /əˈfem(ə)rə/: things that exist or are used or enjoyed for only a short time.*
 
-This repository contains quotes, question and answers, and email exchanges; all originally shared to the Ray Peat Forum from 2012-2024. This project is an attempt to gether, from this source, as well as elsewhere, the volume of exchanges with Ray Peat, which have been either unsearchable, unorganized, or just no well known about. The current code contains just over 1,400 entries.
+This repository contains quotes, question and answers, and email exchanges; all originally shared to the Ray Peat Forum from 2012-2024. This project is an attempt to gether, from this source, as well as elsewhere, the volume of exchanges with Ray Peat, which have been either unsearchable, unorganized, or just no well known about; and preserve them in a single, well-maintained, searchable source. The current code contains just over 1,400 entries originating from the Ray Peat Forum, as well as the original Email Wiki.
 
 <h3>🚧 Roadmap:</h3>
 
