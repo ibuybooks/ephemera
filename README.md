@@ -55,11 +55,6 @@
 
 This repository contains quotes, question and answers, and email exchanges; all originally shared to the Ray Peat Forum from 2012-2024. This project is an attempt to gether, from this source, as well as elsewhere, the volume of exchanges with Ray Peat, which have been either unsearchable, unorganized, or just no well known about; and preserve them in a single, well-maintained, searchable source. The current code contains just over 1,400 entries originating from the Ray Peat Forum, as well as the original Email Wiki.
 
-<h3>🚧 Roadmap:</h3>
-
-- Impliment a box auto-sorter based on size, to better fit boxes on a page.
-- Include quotes form other sources, outside of the forum.
-
 <div align="center">
   <h2>🛠️ Build Instructions</h2>
 </div>
