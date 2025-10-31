@@ -1,7 +1,7 @@
 # Ephemera, or; Emails & Exchanges from the Archives
 
 <div align="center">
-  <img src="" width="350" alt="Book Cover">
+  <img src="https://github.com/user-attachments/assets/2b3e26e0-1340-4d62-ba22-80b34ce397e9" width="350" alt="Book Cover">
   
   <br>
   <br>
