@@ -39,7 +39,7 @@
   [![Download][Download-Badge]][Download-Link]
 
   [Download-Badge]: https://img.shields.io/badge/Download_Latest_Release-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=1e40af
-  [Download-Link]: #
+  [Download-Link]: https://github.com/ibuybooks/ephemera/releases/download/v0.0.1/Ephemera.or.Emails.Exchanges.from.the.Archives.pdf
   
   <sup>📖 See README for More Information</sup>
 </div>
